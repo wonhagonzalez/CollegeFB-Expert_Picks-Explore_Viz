@@ -1,5 +1,4 @@
-# Consulting-HW
-## Consulting Project
+# Consulting Project
 Presented here is an exploratory analysis of expert predictions on college football games conducted for a client as part of a consulting course.
 
 ## Data
